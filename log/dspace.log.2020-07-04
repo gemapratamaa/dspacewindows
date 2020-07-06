@@ -1,0 +1,6 @@
+2020-07-04 02:13:11,565 WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper @ SQL Error: 0, SQLState: 08001
+2020-07-04 02:13:11,567 ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper @ Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+2020-07-04 02:13:14,472 WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper @ SQL Error: 0, SQLState: 08001
+2020-07-04 02:13:14,472 ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper @ Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+2020-07-04 02:13:16,931 WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper @ SQL Error: 0, SQLState: 08001
+2020-07-04 02:13:16,931 ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper @ Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
